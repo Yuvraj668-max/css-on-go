@@ -1,24 +1,14 @@
-h3 {
-  color: yellow;
-}
 p {
-  color: aqua;
+  text-align: center;
+  color: blueviolet;
+  font-weight: bolder;
+  font-size: 20px;
 }
-button {
-  color: rgb(246, 65, 0);
-  background-color: rgb(0, 170, 114);
+h1 {
+  text-align: center;
+  text-decoration: red wavy underline;
+  font-weight: normal;
 }
-body {
-  background-color: rgb(66, 65, 65);
-}
-/* universal selector -- *{} selects everything*/
-/* element selector -- eg -- h1 {} */
-/* id selectors -- #id {} */
-/*  */
-#head1 {
-  color: rgb(128, 255, 0);
-}
-/* class selector  */
-.myclass {
-  background-color: darkblue;
+a {
+  text-decoration: none;
 }
